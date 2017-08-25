@@ -2,16 +2,14 @@
 
 StockBot is an "in progress" collection of python scripts that allows a user to mine the 'twits' of niche social media website [StockTwits.com](https://stocktwits.com), store them locally in [MongoDB](https://www.mongodb.com/), and then derive and graph a "sentiment metric" from the mined twits to analyze in the context of a stocks historical price.
 
----
-
+<br></br>
 
 ## Table of Contents
 
 - [Components](#components)
 - [Dependencies](#dependencies)
 
----
-
+<br></br>
 
 ## Components
 
@@ -28,14 +26,15 @@ Currently there are several python scripts in this repo, each dedicated to perfo
     
 ---
 
+<br></br>
 
 ## Dependencies
   * [Pandas](https://github.com/pandas-dev/pandas)
   * [NumPy](https://github.com/numpy/numpy)
   * [Matplotlib](https://github.com/matplotlib/matplotlib)
   * [Pymongo](https://github.com/mongodb/mongo-python-driver/tree/master/pymongo)
-  * [BeautifulSoup4] (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-  * [Requests] (https://github.com/requests/requests)
+  * [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+  * [Requests](https://github.com/requests/requests)
 
 
 
